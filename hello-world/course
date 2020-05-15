@@ -1,0 +1,27 @@
+1.Core python:-list,tuples,set,dict etc..
+
+2.Django:-CRUD operation, model, view, query etc..
+
+3.Rest-framework:-class-based view:-APIview,genric-view,mixinview and function base view.
+	*request,response
+	*serializer
+
+4.Middleware:-
+	*session.
+	*authentication.
+	*csrf-token.
+	*token.
+
+5.Signle:-
+	*pre_save,post_save,pre_delete,post_delete.
+
+6.Managment command.
+
+7.Decorators.
+
+8.Service base class.
+9.Softdelete or safedelete.
+10.Test-Case :- using magick mock and setup..
+11.Factory-boy.
+12.Inheritance in django:-proxy, multitable, abstract.
+

@@ -1,0 +1,15 @@
+1.To show all user/role
+-> /du
+2.If you want to show more information, you can use the \du+ command:
+3.to show all databases:- \l+
+4.good link :- https://support.rackspace.com/how-to/postgresql-creating-and-dropping-roles/
+5.To create a superuser, run the following command:- createuser -sPE mysuperuser
+6. The syntax for doing this: \c <database_name>. Suppose, you want to switch to a database named datacamp_tutorials you can do so like the following -
+7.Describing a particular table:- \d <table_name>
+8.Use ps -ef | grep postgres to find the connection # 
+9.sudo kill -9 "#" of the connection
+10.Drop a PostgreSQL database if there are active connections to it:-
+->http://www.leeladharan.com/drop-a-postgresql-database-if-there-are-active-connections-to-it
+11. GRANT ALL PRIVILEGES ON DATABASE saleor to saleor;
+ 
+
